@@ -1,0 +1,8 @@
+matplotlib
+open_clip_torch
+openpyxl
+accelerate>=0.26.0
+git+https://github.com/huggingface/transformers.git
+pytorch_lightning
+optuna
+tensorboard
