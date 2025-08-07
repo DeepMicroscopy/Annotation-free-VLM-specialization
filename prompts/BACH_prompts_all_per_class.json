@@ -1,0 +1,52 @@
+{
+    "0": {
+        "classnames": {
+            "Normal": [
+                "non-tumor",
+                "normal tissue",
+                "non-cancerous tissue"
+            ],
+            "Benign": [
+                "non-malignant tissue",
+                "benign tissue",
+                "non-malignant benign tissue"
+            ],
+            "InSitu": [
+                "in-situ tumor",
+                "in-situ cancer",
+                "in-situ carcinoma",
+                "malignant in-situ carcinoma"
+            ],
+            "Invasive": [
+                "invasive tumor",
+                "invasive cancer",
+                "invasive carcinoma",
+                "malignant invasive carcinoma"
+            ]
+        },
+        "templates": [
+            "CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "a photomicrograph of CLASSNAME.",
+            "an image of CLASSNAME.",
+            "an image showing CLASSNAME.",
+            "an example of CLASSNAME.",
+            "CLASSNAME is shown.",
+            "this is CLASSNAME.",
+            "there is CLASSNAME.",
+            "a histopathological image showing CLASSNAME.",
+            "a histopathological image of CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "a histopathological photograph showing CLASSNAME.",
+            "shows CLASSNAME.",
+            "presence of CLASSNAME.",
+            "CLASSNAME is present.",
+            "an H&E stained image of CLASSNAME.",
+            "an H&E stained image showing CLASSNAME.",
+            "an H&E image showing CLASSNAME.",
+            "an H&E image of CLASSNAME.",
+            "CLASSNAME, H&E stain.",
+            "CLASSNAME, H&E."
+        ]
+    }
+}

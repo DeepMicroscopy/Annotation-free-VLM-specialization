@@ -1,0 +1,65 @@
+{
+    "0": {
+        "classnames": {
+            "NC": [
+                "non-cancerous tissue",
+                "non-cancerous prostate tissue",
+                "benign tissue",
+                "benign glands",
+                "benign prostate tissue",
+                "benign prostate glands"
+            ],
+            "G3": [
+                "atrophic dense glands",
+                "gleason grade 3",
+                "gleason pattern 3",
+                "prostate cancer, gleason grade 3",
+                "prostate cancer, gleason pattern 3",
+                "prostate adenocarcinoma, well-differentiated",
+                "well-differentiated prostatic adenocarcinoma"
+            ],
+            "G4": [
+                "cribriform ill-formed fused papillary patterns",
+                "gleason grade 4",
+                "gleason pattern 4",
+                "prostate cancer, gleason grade 4",
+                "prostate cancer, gleason pattern 4",
+                "prostate adenocarcinoma, moderately differentiated",
+                "moderately differentiated prostatic adenocarcinoma"
+            ],
+            "G5": [
+                "isolated nest cells without lumen rosetting patterns",
+                "gleason grade 5",
+                "gleason pattern 5",
+                "prostate cancer, gleason grade 5",
+                "prostate cancer, gleason pattern 5",
+                "prostate adenocarcinoma, poorly differentiated",
+                "poorly differentiated prostatic adenocarcinoma"
+            ]
+        },
+        "templates": [
+            "CLASSNAME.",
+            "a photomicrograph showing CLASSNAME.",
+            "a photomicrograph of CLASSNAME.",
+            "an image of CLASSNAME.",
+            "an image showing CLASSNAME.",
+            "an example of CLASSNAME.",
+            "CLASSNAME is shown.",
+            "this is CLASSNAME.",
+            "there is CLASSNAME.",
+            "a histopathological image showing CLASSNAME.",
+            "a histopathological image of CLASSNAME.",
+            "a histopathological photograph of CLASSNAME.",
+            "a histopathological photograph showing CLASSNAME.",
+            "shows CLASSNAME.",
+            "presence of CLASSNAME.",
+            "CLASSNAME is present.",
+            "an H&E stained image of CLASSNAME.",
+            "an H&E stained image showing CLASSNAME.",
+            "an H&E image showing CLASSNAME.",
+            "an H&E image of CLASSNAME.",
+            "CLASSNAME, H&E stain.",
+            "CLASSNAME, H&E."
+        ]
+    }
+}
